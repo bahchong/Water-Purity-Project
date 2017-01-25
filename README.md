@@ -1,5 +1,5 @@
 # the-yeezys
-Original Project Location: https://github.com/jonpng/the-yeezys
+Original Project Location (can find commit history here): https://github.com/jonpng/the-yeezys
 INSTALL USING final.dmg  
 Sorry no EXE Windows Users, you can run final.jar though.  
 The jar is located in:
